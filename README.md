@@ -1,6 +1,6 @@
 # challenge48h - équipe 54
 
-Projet PHP avec une base de données MySQL
+Projet PHP avec wamp et une base de données MySQL, pour récupérer notre projet il faut lancer le fichier index.php depuis wamp dans le dossier /www.
 
 La connexion a la base de données se situe dans "inc/header.inc.php" 
 La base de données en local s'appelle passionfroid
